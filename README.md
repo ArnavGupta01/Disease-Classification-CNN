@@ -1,6 +1,6 @@
 # Disease-Classification-CNN
 
-This is a Convolutional Neural Network (CNN) model designed for accurate and efficient classification of medical images into four categories: Monkeypox, Chickenpox, Measles, and Normal. This repository contains the implementation of the CNN model, along with all the images used and the necessary data preprocessing scripts. The model has been trained on a decently big dataset of annotated medical images to provide reliable disease classification results. Researchers and healthcare professionals can utilize this repository to enhance disease diagnosis, surveillance, and monitoring efforts. 
+This is a Convolutional Neural Network (CNN) model designed for accurate and efficient classification of medical images into four categories: Monkeypox, Chickenpox, Measles, and Normal. This repository contains the implementation of the CNN model, along with all the images used and the necessary data preprocessing scripts. The model has been trained on a decently big dataset of annotated medical images to provide reliable disease classification results. 
 
 All the images used have been obtained from authenticated websites which are run by medical practitioners(dermatologists) and governmental organisations.
 
